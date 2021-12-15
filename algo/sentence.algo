@@ -6,11 +6,9 @@ nbv:integer
 nbw:integer
 
 Begin
-
 nbc:=0
 nbv:=0
-nbw:=0
-
+nbw:=1
 REPEAT 
 Read(num)
 nbc:=nbc+1
